@@ -1,0 +1,17 @@
+
+{
+  "proyecto": "TESE-BREAK",
+  "coleccion": "categorias",
+  "version": 1,
+  "documentos": [
+    {
+      "id": "categoria_bebidas",
+      "datos": {
+        "nombre": "Bebidas",
+        "descripcion": "Bebidas frias y calientes",
+        "activa": true,
+        "orden": 1
+      }
+    }
+  ]
+}
